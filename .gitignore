@@ -139,3 +139,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+data/raw/test.csv
+data/raw/train.csv
+scripts/verify_env.py
+src/data_loader.py
+scripts/download_data.py
