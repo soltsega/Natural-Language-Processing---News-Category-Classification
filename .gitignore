@@ -148,3 +148,8 @@ docs/phase_1_setup.md
 docs/TODO.md
 data/processed/clean_train.csv
 data/processed/clean_test.csv
+data/processed/X_test.npz
+data/processed/X_train.npz
+data/processed/y_train.npy
+data/processed/y_test.npy
+models/tfidf_vectorizer.joblib
