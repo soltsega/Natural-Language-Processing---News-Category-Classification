@@ -156,3 +156,7 @@ models/tfidf_vectorizer.joblib
 models/best_model.joblib
 evaluation_results.txt
 eval_results_ascii.txt
+metrics_summary.txt
+nn_metrics_final.txt
+nn_results.txt
+models/nn_model.h5
