@@ -144,3 +144,4 @@ data/raw/train.csv
 scripts/verify_env.py
 src/data_loader.py
 scripts/download_data.py
+docs/phase_1_setup.md
