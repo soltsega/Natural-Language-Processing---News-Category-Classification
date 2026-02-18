@@ -146,3 +146,5 @@ src/data_loader.py
 scripts/download_data.py
 docs/phase_1_setup.md
 docs/TODO.md
+data/processed/clean_train.csv
+data/processed/clean_test.csv
