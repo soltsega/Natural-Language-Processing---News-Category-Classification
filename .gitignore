@@ -153,3 +153,6 @@ data/processed/X_train.npz
 data/processed/y_train.npy
 data/processed/y_test.npy
 models/tfidf_vectorizer.joblib
+models/best_model.joblib
+evaluation_results.txt
+eval_results_ascii.txt
